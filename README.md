@@ -1,10 +1,3 @@
-ChatGPT a dit :
-Voici le README.md pour le projet Traitement Big Data sur le Cloud, avec la même structure que les précédents.
-
-✅ README.md
-markdown
-Copier
-Modifier
 #  Traitement d’images dans un environnement Big Data – Fruits!
 
 ## Contexte
